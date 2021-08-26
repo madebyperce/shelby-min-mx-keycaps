@@ -1,4 +1,4 @@
-# min mx keycaps
+# Shelby -- min mx keycaps
  Minimum pitch keycaps for MX style switches. 15.4mm x 15.4mm
  
  * Homing v2 is a deeper dish
@@ -10,4 +10,4 @@
 
 ![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram2.jpg)
 
-![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram3.1.jpg)
+![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram4.jpg)
