@@ -10,4 +10,4 @@
 
 ![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram2.jpg)
 
-![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram3.1.jpg)
+![](https://raw.githubusercontent.com/madebyperce/min-mx-keycaps/main/photos/diagram4.jpg)
